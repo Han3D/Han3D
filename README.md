@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Han3D
-- 👀 Im Interested in Web Development and Mobile DEvelopment
+- 👀 Im Interested in Web Development and Mobile Development
 - 🌱 I’m currently learning Angular, React, SwiftUI, Python, .Net Core and Go
 
 <!---
